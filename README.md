@@ -8,4 +8,4 @@ se rendre dans le dossier "iris".
 
 Un dossier "sepale_output" va étre créer, résultat du code python disponible dans app.py
 
-Le code app.py n'est pas complexe est sert ici d'exemple pour recupérer des résultats du conteniare. 
+Le code app.py n'est pas complexe est sert ici d'exemple pour recupérer des résultats du contenaire. 
